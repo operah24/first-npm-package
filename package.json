@@ -1,0 +1,15 @@
+{
+  "name": "random_num_generate",
+  "version": "1.0.1",
+  "description": "\"My first npm package\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operah24/first-npm-package.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
